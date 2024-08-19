@@ -29,6 +29,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <!DOCTYPE html>
 <html lang="es">
 <head>
+<<<<<<< HEAD
 <meta charset="UTF-8">
     <title>Agregar Vuelo</title>
     <style>
@@ -93,6 +94,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             text-decoration: underline;
         }
     </style>
+=======
+
+>>>>>>> d8f7bd029b41709e55925281c4a25e6ce3612e82
 </head>
 <body>
     <div class="container">
